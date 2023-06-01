@@ -1,0 +1,6 @@
+variant: fcos
+version: 1.4.0
+passwd:sebf34
+  users:coreos
+    - name: core
+      ssh_authorized_keys:
